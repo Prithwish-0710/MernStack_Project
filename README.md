@@ -38,8 +38,7 @@ This MERN stack e-commerce project is built using **MongoDB, ExpressJS, ReactJS,
 ## 📸 Screenshots
 
 ### Login Page For Admin  
-
-
+![image alt](https://github.com/Prithwish-0710/MernStack_Project/blob/e912549af3b80d47924e59e6f2b1e56c9065e11c/Login%20Page%20For%20Admin.png)
 
 ### List of all Products  
 
