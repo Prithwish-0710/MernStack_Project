@@ -47,6 +47,7 @@ This MERN stack e-commerce project is built using **MongoDB, ExpressJS, ReactJS,
 ![image alt](https://github.com/Prithwish-0710/MernStack_Project/blob/c962181bfdc5bf74da29b1834e346d1fb66bed27/Products%20Display%20Page%20for%20Users.png)
 
 ### Cart Page for all Products
+![image alt](https://github.com/Prithwish-0710/MernStack_Project/blob/2588d9f09f2fe010891ee9f89d203acc1dc1b083/Cart%20Page%20for%20all%20Ordered%20Products.png)
 
 
 ---
