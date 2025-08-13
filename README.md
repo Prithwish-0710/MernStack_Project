@@ -8,7 +8,7 @@
 </p>
 
 
-This MERN stack e-commerce project is built using **MongoDB, ExpressJS, ReactJS, and NodeJS**, with modern state management implemented through **Redux Toolkit**. It features secure user authentication with **JWT**, email support via **Nodemailer**, seamless payments through **Razorpay**, and image uploads using **Cloudinary**. API endpoints are tested thoroughly using **Postman** to ensure robustness and reliability.
+This MERN stack e-commerce project is built using **MongoDB, ExpressJS, ReactJS, and NodeJS**. It features secure user authentication with **JWT**, email support via **Nodemailer**, and image uploads using **Cloudinary**. API endpoints are tested thoroughly using **Postman** to ensure robustness and reliability.
 
 ---
 
